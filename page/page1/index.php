@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Looping Structures</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <div class="page">
@@ -45,7 +45,7 @@
             ?>
         </div>
 
-        <a href="Index.php" class="btn"> Back to Main</a>
+        <a href="http://127.0.0.1:3030/Index.php" class="btn"> Back to Main</a>
 
     </div>
 
