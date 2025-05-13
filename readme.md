@@ -61,15 +61,19 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+This project is a plain but dynamic web application based on PHP that reflects the combination of backend logic and frontend presentation in terms of HTML and CSS. The home page (`index.php`) presents a customized greeting, fundamental details such as school and course through the use of conditional statements, and a daily menu schedule depending on the day through a `switch` construct. A second page (`page/page1/index.php`) showcases several looping concepts such as a `foreach` loop to show the days of the week, a `for` loop to show exercise routines, and a `while` loop to count down the top Netflix hits.
+
 
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- Dynamic Info: Displays personalized user and school data using PHP conditionals.
+
+- Meal Scheduler: Shows meals based on the current day using switch statements.
+
+- Loop Demos: Implements foreach, for, and while loops to display days, workouts, and top recommendations.
 
 ### Technology
 
@@ -77,18 +81,8 @@ Description of the project in details.
 #### Language
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Framework/Library
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -112,30 +106,19 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ name.css
-|   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
-└─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ name.css
-|     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
-|     └─ index.php
-└─ utils
-|   └─ Name.utils.php
-└─ index.php
-└─ readme.md
+AD-Task-1/
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ ├── img/
+│ └── js/
+├── page/
+│ └── page1/
+│ ├── assets/
+│ └── index.php
+├── index.php
+├── .gitignore
+└── readme.md
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
