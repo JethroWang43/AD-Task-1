@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="page">
-        <h1>The 7 Days(Looping Incramental)</h1>
+        <h1>The 7 Days(Looping Incremental)</h1>
         <div class="scroll-box">
             <?php
             $weeks = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
@@ -20,7 +20,7 @@
             ?>
             </div>
 
-        <h1>Workout Days(Looping Incramental)</h1>
+        <h1>Workout Days(Looping Incremental)</h1>
         <div class="scroll-box">
             <?php
             $workouts = ["Pushday", "Pullday", "legday", "Rest day", "Endurance Day", "light workout", "Rest day"];
@@ -31,7 +31,7 @@
             ?>
         </div>
 
-        <h1>Top 5 Recommendation(Looping Decramental)</h1>
+        <h1>Top 5 Recommendation(Looping Decremental)</h1>
         <div class="scroll-box">
             <?php
             $movies =["Hunger by Sitisiri Mongkolsiri","The PURSUIT of Happiness","The Founder (2016)","The Social Network","Breaking bad" ];
