@@ -16,7 +16,7 @@
     </div>
 
     <div class="section">
-        <h1>Basic Information<br>(Conditional Stament and Declarations)</h1>
+        <h1>Basic Information<br>(Conditional Statement and Declarations)</h1>
         <?php
         $school = "FEU Institute of Technology";
         $course = "BS information Technology";
@@ -35,7 +35,7 @@
     </div>
 
     <div class="section">
-        <h1>Meal Schedule<br>(Conditional Stament and Declarations)</h1>
+        <h1>Meal Schedule<br>(Conditional Statement and Declarations)</h1>
         <?php
         $day = date("l");
         echo "<p>Today is: $day</p>";
