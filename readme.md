@@ -84,10 +84,6 @@ This project is a plain but dynamic web application based on PHP that reflects t
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-#### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ## Rules, Practices and Principles
 
 <!-- Do not Change this -->
