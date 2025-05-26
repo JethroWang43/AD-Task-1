@@ -103,19 +103,28 @@ This project is a plain but dynamic web application based on PHP that reflects t
 10. File Structure to follow below.
 
 ```
-AD-Task-1/
+AD-TASK-1/
 ├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── img/
-│ └── js/
+│   ├── css/
+│   │   └── style.css
+│   ├── img/
+│   └── js/
 ├── page/
-│ └── page1/
-│ ├── assets/
-│ └── index.php
-├── index.php
+│   └── page1/
+│       ├── assets/
+│       │   ├── css/
+│       │   │   └── style.css
+│       │   ├── img/
+│       │   └── js/
+│       └── index.php
 ├── .gitignore
-└── readme.md
+├── bootstrap.php
+├── composer.json
+├── composer.lock
+├── index.php
+├── readme.md
+└── router.php
+
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
