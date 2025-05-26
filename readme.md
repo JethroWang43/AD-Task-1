@@ -6,14 +6,15 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">About Myself</h3>
 </div>
 <!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  This is a website about myself, created by following the instructions of AD-Task_1
 </div>
 
 <br />
@@ -23,7 +24,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime]<a href="https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2"><img src="https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2.svg" alt="wakatime"></a>
 
 ---
 
@@ -128,7 +129,6 @@ AD-Task-1/
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3shcool     | to check and understand the syntax of kotlin                                  | w3schools.com |
+| Chatgpt      | to ask about the issue of the program                                         | chatgpt.com   |
+
