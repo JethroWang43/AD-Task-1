@@ -24,7 +24,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=JethroWang42/AD-Task-1)
 
-[![wakatime]<a href="https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2"><img src="https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2.svg" alt="wakatime"></a>
+[![wakatime](https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2.svg)](https://wakatime.com/badge/user/ce1ba829-cf0c-415a-907e-955818b3b253/project/4611d5bc-3af7-4496-a13b-bc36292573a2)
 
 ---
 
