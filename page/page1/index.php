@@ -45,7 +45,7 @@
             ?>
         </div>
 
-        <a href="http://127.0.0.1:3030/Index.php" class="btn"> Back to Main</a>
+        <a href="/index.php" class="btn"> Back to Main</a>
 
     </div>
 
